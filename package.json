@@ -1,6 +1,6 @@
 {
   "name": "@dilan2/fs-await",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nodejs fs wrapper to use with async/await easy",
   "main": "index.js",
   "scripts": {
