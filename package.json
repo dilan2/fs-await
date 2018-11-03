@@ -1,0 +1,24 @@
+{
+  "name": "@dilan2/fs-await",
+  "version": "1.0.0",
+  "description": "nodejs fs wrapper to use with async/await easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "fs",
+    "filesystem",
+    "async",
+    "await",
+    "async/await",
+    "nodejs",
+    "node",
+    "readFile",
+    "file",
+    "read",
+    "write"
+  ],
+  "author": "dilan2",
+  "license": "ISC"
+}
