@@ -6,6 +6,11 @@
   "scripts": {
     "test": "npm test"
   },
+  "homepage": "https://github.com/dilan2/fs-await/blob/master/ReadMe.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dilan2/fs-await"
+  },
   "keywords": [
     "fs",
     "filesystem",

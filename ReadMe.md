@@ -3,7 +3,8 @@ That package makes it possible to use nodejs fs module for the methods that need
 # Installation
     $ npm i --save @dilan2/fs-await
 
-## Than in nodejs app you can do this:
+Than in nodejs app you can do this:
+
     const fsawait = require('@dilan2/fs-await');
 
     ;(async (path) => {
@@ -11,9 +12,9 @@ That package makes it possible to use nodejs fs module for the methods that need
         console.log(fileData.toString());
     })('./file.txt')
 
-## Supported fs methods
+### Supported fs methods
 
- - access, 
+ - access 
  - appendFile 
  - chmod
  - chown 
